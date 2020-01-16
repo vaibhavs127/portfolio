@@ -7,9 +7,7 @@
 
 body {
       min-width: 500px;
-      background:url(https://careforu.000webhostapp.com/images/vaibhav/images.jpg);
-      background-attachment: fixed;
-      background-size: cover;
+      background-color: #e0eeee;
       
   }
   .profileBody {
